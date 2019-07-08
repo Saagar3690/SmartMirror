@@ -1,0 +1,15 @@
+.MMM-History .header {
+	text-align: center;
+}
+.MMM-History .title {
+	text-align: center;
+}
+.MMM-History .content {
+  width: 100%;
+  background-position: 11px 0;
+  background-repeat: no-repeat;
+  color: #fe0127;
+}
+.MMM-History .wrapper {
+	text-align: justify
+}

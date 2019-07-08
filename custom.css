@@ -1,0 +1,65 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. 	 *
+ *****************************************************/
+
+ body {
+	
+ }
+ 
+ .newsfeed {
+	width:300px;
+ }
+
+ .newsfeed .medium {
+	font-size: 24px;
+	font-weight: bold;
+	line-height: normal;
+ }
+ 
+ .newsfeed .small {
+	font-size: 12px;
+ }
+ 
+ .newsfeed .light {
+	font-size: 16px;
+ }
+
+ .MMM-quote-of-the-day {
+	font-size: 16px;
+ }
+
+ .compliments {
+	margin-top: 500px;
+	font-size: 24px;
+ }
+ 
+ /*@keyframes example {
+	from {background-color: black;}
+	to {background-color: #191919;}
+ }
+
+ .clock {
+	color: #984B43;
+	background-color: black;
+	padding: 10px;
+	border-radius: 10px;
+	animation-name: example;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+ }*/
+ 
+ /*.clock {
+	background-color: red;
+ }
+ 
+ .clock:hover {
+	background-color: blue;
+ }*/
